@@ -1,0 +1,29 @@
+body{
+	/*background-image: url(pics/studentt.jpg);*/
+	height:100vh;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: yellow;
+	font-family: sans-serif;
+
+}
+#grade{
+	margin: 8%;
+	padding: 15px;
+	text-align: center;
+	color: white;
+}
+
+footer{
+	padding: 16px;
+	text-align: center;
+	margin: none;
+	width: 100%;
+
+}
+/*#grade{
+	padding: 150px;
+	float: left;
+}*/
